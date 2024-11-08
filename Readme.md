@@ -6,7 +6,7 @@ Entity Framework (EF) is an object-relational mapper that enables .NET developer
 
 Page:
 
-(Entity Framework)[https://www.notion.so/Entity-Framework-138cfab8a88980998991f7f2a9610acb?pvs=4]
+[Entity Framework](https://www.notion.so/Entity-Framework-138cfab8a88980998991f7f2a9610acb?pvs=4)
 
 Author
 
