@@ -6,7 +6,7 @@ Entity Framework (EF) is an object-relational mapper that enables .NET developer
 ## Content Table
 - Introduction
 - ADO.NET
-
+- Dapper
 ---
 
 # Introduction
