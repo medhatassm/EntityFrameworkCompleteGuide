@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsertDataToTableInDataSource")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+368b976a91318969dba8f2e644baaa279ebfcce5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0b254388a685db31bbee5989ccaed25afca3173")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsertDataToTableInDataSource")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsertDataToTableInDataSource")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
