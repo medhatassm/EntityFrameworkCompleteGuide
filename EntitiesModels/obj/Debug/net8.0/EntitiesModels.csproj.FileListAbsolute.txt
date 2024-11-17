@@ -1,0 +1,13 @@
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/bin/Debug/net8.0/EntitiesModels.deps.json
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/bin/Debug/net8.0/EntitiesModels.dll
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/bin/Debug/net8.0/EntitiesModels.pdb
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/EntitiesModels.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/EntitiesModels.AssemblyInfoInputs.cache
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/EntitiesModels.AssemblyInfo.cs
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/EntitiesModels.csproj.CoreCompileInputs.cache
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/EntitiesModels.sourcelink.json
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/EntitiesModels.dll
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/refint/EntitiesModels.dll
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/EntitiesModels.pdb
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/ref/EntitiesModels.dll
+/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/EntitiesModels/obj/Debug/net8.0/EntitiesModels.csproj.AssemblyReference.cache
