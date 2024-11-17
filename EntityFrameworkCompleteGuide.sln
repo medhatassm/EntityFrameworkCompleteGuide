@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectionString", "ConnectionString\ConnectionString.csproj", "{BB3A04AD-924F-4197-BDA8-CDD9AA44C35D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntitiesModels", "EntitiesModels\EntitiesModels.csproj", "{D51F8675-B7B3-48CC-B4C6-39539ADE37BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDSystemEntityFramework", "CRUDSystemEntityFramework\CRUDSystemEntityFramework.csproj", "{B23CBEB9-852C-4C9E-B1C1-3F110FD0E5B8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{BB3A04AD-924F-4197-BDA8-CDD9AA44C35D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3A04AD-924F-4197-BDA8-CDD9AA44C35D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3A04AD-924F-4197-BDA8-CDD9AA44C35D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D51F8675-B7B3-48CC-B4C6-39539ADE37BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D51F8675-B7B3-48CC-B4C6-39539ADE37BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D51F8675-B7B3-48CC-B4C6-39539ADE37BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D51F8675-B7B3-48CC-B4C6-39539ADE37BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23CBEB9-852C-4C9E-B1C1-3F110FD0E5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23CBEB9-852C-4C9E-B1C1-3F110FD0E5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23CBEB9-852C-4C9E-B1C1-3F110FD0E5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23CBEB9-852C-4C9E-B1C1-3F110FD0E5B8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

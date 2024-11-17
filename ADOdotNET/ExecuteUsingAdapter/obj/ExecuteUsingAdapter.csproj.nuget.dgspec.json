@@ -13,6 +13,7 @@
         "packagesPath": "/Users/medhat/.nuget/packages/",
         "outputPath": "/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/ADOdotNET/ExecuteUsingAdapter/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/medhat/.nuget/NuGet/NuGet.Config"
         ],
@@ -89,6 +90,7 @@
         "packagesPath": "/Users/medhat/.nuget/packages/",
         "outputPath": "/Users/medhat/Developer/Conosle Application/EntityFrameworkCompleteGuide/ADOdotNET/Models/obj/",
         "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
         "configFilePaths": [
           "/Users/medhat/.nuget/NuGet/NuGet.Config"
         ],

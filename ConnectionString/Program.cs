@@ -9,11 +9,12 @@ var configuration = new ConfigurationBuilder()
     .AddJsonFile("AppSettings.json")
     .Build();
 
-// Get Value Of "constr" From JSON File
-Console.WriteLine(configuration.GetSection("constr").Value);
-
 // Make Connection Variable To Connect to SQL
-var connection = new SqlConnection(configuration.GetSection("constr").Value);
+var connection = configuration.GetSection("constr").Value;
+
+// Get Value Of "constr" From JSON File
+Console.WriteLine(connection);
+
 
 #endregion
 
