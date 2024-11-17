@@ -7,6 +7,8 @@ Entity Framework (EF) is an object-relational mapper that enables .NET developer
 - Introduction
 - ADO.NET
 - Dapper
+- Entities Core Models
+- Happy Coding (CRUD System)
 ---
 
 # Introduction
@@ -60,6 +62,74 @@ is a technique than let’s you query and manipulate data from a database using 
     - open source
     - cross-platform
     - fully featured
+
+---
+
+## Advanced Of Entity Framework
+
+- **Fully Flagged ORM**
+
+- Light Weight
+- Class Platform
+
+- Open Source
+- Extensible
+
+---
+
+## History Of .Net Framework Vs .Net Framework Core
+
+### .Net Framework
+
+| .Net FrameWork | Version |
+| --- | --- |
+| 2002 | 1.0 |
+| 2005 | 2.0 |
+| 2006 | 3.0 |
+| ORM System Deploy | — |
+| 2010 | 4.0 |
+| 2012 | 4.5 |
+| 2015 | 4.6 |
+
+> .Net Framework have some issue like:
+>
+> - Not Open Source
+> - Work on Windows Only
+>
+> So That microsoft work on new technology to solve this problem and called it **.Net FrameWork Core**
+>
+
+| .Net FrameWork Core | .Net Version | EF Core Version |
+| --- | --- | --- |
+| 2016 | 1.0 | 1.0 |
+| 2017 | 2.0 | 2.0 |
+| 2019 | 3.0 | 3.1 |
+| 2020 | 5.0 | 5.0 |
+| 2021 | 6.0 | 6.0 |
+| 2022 | 7.0 | 7.0 |
+| 2023 | 8.0 | 8.0 |
+| 2024 | 9.0 | 9.0 |
+
+> at 2020 microsoft change the name of **.Net Framework** core to **.Net** and stop support .Net Framework anymore, after that at 2022 they change **Entity Framework Core** Name to **Entity Framework**, and that make microsoft now work on cross platform and open source.
+>
+
+---
+
+# Overview
+
+## Why Using Entity Framework ?
+
+- Handle All DB Work
+- Flexible & Extensible
+- Light Wight
+
+- Unit of Work
+- Open Source
+- Efficient
+
+- Cross Platform And Open Source
+- Code First || DB First
+- Multiple DB Provider
 
 ---
 

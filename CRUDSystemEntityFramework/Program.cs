@@ -33,7 +33,7 @@ context.SaveChanges(); // Inserted On DB
 
 #region Update Data
 
-// Update Wallet ID = 2003 Set Balance Increse By 1000
+// Update Wallet ID = 2003 Set Balance Increase By 1000
 var updateWallet = context.Wallets.Single(x => x.Id == 2003);
 
 updateWallet.Balance += 1000; // Update On Memory
@@ -70,7 +70,7 @@ using var transaction = context.Database.BeginTransaction();
 var fromWallet = context.Wallets.Single(x => x.Id == 2002);
 var toWallet = context.Wallets.Single(x => x.Id == 2003);
 
-var amount = 500m;
+const decimal amount = 500m;
 
 // Operation Number One (With Drew $500 From Wallet ID = 2002)
 fromWallet.Balance -= amount;
