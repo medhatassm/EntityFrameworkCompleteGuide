@@ -33,7 +33,7 @@ public DbSet<Tweet> Tweets { get; set; }
 public DbSet<Comment> Comments { get; set; }
 ```
 
-![Screenshot 2024-11-19 at 8.44.02 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/05584894-2371-48e3-b0e2-3303dce8f861/Screenshot_2024-11-19_at_8.44.02_PM.png)
+![Screenshot 2024-11-19 at 8 44 02 PM](https://github.com/user-attachments/assets/707a95d3-0578-44b9-9ead-b6dce92d1d10)
 
 - Second Convention ⇒ its called **Primary Convention**, primary key name should match this:`[Id , id , ID] or [{ClassName}Id]` in both class and table.
 - Third Convention ⇒ **Column property mismatch**, property name in class should match column name in data source.
@@ -43,7 +43,7 @@ public int UserId { get; set; }
 public string? Username { get; set; }
 ```
 
-![Screenshot 2024-11-19 at 8.50.01 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ac8d2e56-c643-48fc-af41-f14c17164785/d0be3df1-ec27-49c3-9985-1f3b9432ddf1/Screenshot_2024-11-19_at_8.50.01_PM.png)
+![Screenshot 2024-11-19 at 8 50 01 PM](https://github.com/user-attachments/assets/ebb971cd-3557-446d-9ece-6f854f2f7050)
 
 ---
 
