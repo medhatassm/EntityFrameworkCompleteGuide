@@ -35,7 +35,7 @@ public DbSet<Comment> Comments { get; set; }
 
 ![Screenshot 2024-11-19 at 8 44 02 PM](https://github.com/user-attachments/assets/707a95d3-0578-44b9-9ead-b6dce92d1d10)
 
-- Second Convention ⇒ its called **Primary Convention**, primary key name should match this:`[Id , id , ID] or [{ClassName}Id]` in both class and table.
+- Second Convention ⇒ it's called **Primary Convention**, primary key name should match this:`[Id , id , ID] or [{ClassName}Id]` in both class and table.
 - Third Convention ⇒ **Column property mismatch**, property name in class should match column name in data source.
 
 ```csharp
@@ -51,7 +51,7 @@ public string? Username { get; set; }
 
 ### Data Annotation
 
-you can use data annotation to override configuration but it have some issue with clean code, because you will override each configuration in each class (entity) in your project
+you can use data annotation to override configuration, but it has some issue with clean code, because you will override each configuration in each class (entity) in your project
 
 - lot of code.
 - not match clean code.
@@ -65,13 +65,13 @@ public class User
 }
 ```
 
-and there is more **Data Annotation Attribute** we will use it when it needed but for now, its good to know how you declare it and what it used for 😊
+and there is more **Data Annotation Attribute** we will use it when it needed but for now, it's good to know how you declare it and what it used for 😊
 
 ---
 
 ### Fluent API
 
-this better than Data Annotation, this allow you to set all your configuration on one place using `OnModelCreating` override function, so it help you to organize your code and set configuration without get your class (entity) dirty.
+this better than Data Annotation, this allows you to set all your configuration on one place using `OnModelCreating` override function, so it help you to organize your code and set configuration without get your class (entity) dirty.
 
 ```csharp
      protected override void OnModelCreating(ModelBuilder modelBuilder)
@@ -89,7 +89,7 @@ this better than Data Annotation, this allow you to set all your configuration o
 
 ### Grouping Configuration
 
-its the same about Fluent API, but this allow you to set all configuration of each entity in one place (Class) and call that class `onModelCreating` override function like this:
+it's the same about Fluent API, but this allows you to set all configuration of each entity in one place (Class) and call that class `onModelCreating` override function like this:
 
 UserConfiguration.cs
 
